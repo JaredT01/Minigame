@@ -1,0 +1,7 @@
+C:\Users\jared\Desktop\NSCC\Projects\Term Two\Object Oriented Programming\Minigame\Minigame\bin\Debug\Minigame.exe.config
+C:\Users\jared\Desktop\NSCC\Projects\Term Two\Object Oriented Programming\Minigame\Minigame\bin\Debug\Minigame.exe
+C:\Users\jared\Desktop\NSCC\Projects\Term Two\Object Oriented Programming\Minigame\Minigame\bin\Debug\Minigame.pdb
+C:\Users\jared\Desktop\NSCC\Projects\Term Two\Object Oriented Programming\Minigame\Minigame\obj\Debug\Minigame.csprojAssemblyReference.cache
+C:\Users\jared\Desktop\NSCC\Projects\Term Two\Object Oriented Programming\Minigame\Minigame\obj\Debug\Minigame.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\NSCC\Projects\Term Two\Object Oriented Programming\Minigame\Minigame\obj\Debug\Minigame.exe
+C:\Users\jared\Desktop\NSCC\Projects\Term Two\Object Oriented Programming\Minigame\Minigame\obj\Debug\Minigame.pdb
